@@ -165,7 +165,7 @@ p {
 
 /*Estilos del banner*/
 .banner {
-  background: url(multimedia/gif.gif.crdownload);
+  background-image: url(../multimedia/gif.gif.crdownload);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 400px;
@@ -366,6 +366,7 @@ p {
   font-weight: 800;
   margin-left: 27%;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .templatemo_contactform .btn-primary:hover {
